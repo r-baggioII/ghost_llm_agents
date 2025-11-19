@@ -1,0 +1,6 @@
+timestamp,npc_name,npc_role,command,working_directory,delay_after,llm_model,session_id
+2025-11-19T20:14:34.144257,Dr. Sarah Chen,AI Research Scientist,cd /home/rocio/Documentos/GHOSTS/dummy_llm_agent/workspace && mkdir -p research_papers && cd research_papers && touch reading_list.txt,/home/rocio/Documentos/GHOSTS/dummy_llm_agent/workspace,15,gpt-4o-mini,20251119
+2025-11-19T20:14:52.585571,Dr. Sarah Chen,AI Research Scientist,cd /home/rocio/Documentos/GHOSTS/dummy_llm_agent/workspace && mkdir -p research_papers/neural_networks,/home/rocio/Documentos/GHOSTS/dummy_llm_agent/workspace,15,gpt-4o-mini,20251119
+2025-11-19T20:15:10.779279,Dr. Sarah Chen,AI Research Scientist,cd /home/rocio/Documentos/GHOSTS/dummy_llm_agent/workspace && mkdir -p research/papers_to_read,/home/rocio/Documentos/GHOSTS/dummy_llm_agent/workspace,15,gpt-4o-mini,20251119
+2025-11-19T20:15:29.090535,Dr. Sarah Chen,AI Research Scientist,cd /home/rocio/Documentos/GHOSTS/dummy_llm_agent/workspace && mkdir -p projects/neural_networks/tutorials,/home/rocio/Documentos/GHOSTS/dummy_llm_agent/workspace,15,gpt-4o-mini,20251119
+2025-11-19T20:15:48.077308,Dr. Sarah Chen,AI Research Scientist,cd /home/rocio/Documentos/GHOSTS/dummy_llm_agent/workspace && mkdir -p papers/research_papers,/home/rocio/Documentos/GHOSTS/dummy_llm_agent/workspace,15,gpt-4o-mini,20251119

@@ -1,0 +1,46 @@
+{
+  "name": "Emma Thompson",
+  "role": "Junior Web Developer",
+  "age": 24,
+  "personality": "Enthusiastic, learning-oriented, creative, sometimes disorganized",
+  "interests": [
+    "web development",
+    "JavaScript frameworks",
+    "UI/UX design",
+    "learning new technologies",
+    "open source projects",
+    "tech tutorials"
+  ],
+  "work_habits": [
+    "Tries new frameworks and tools",
+    "Creates lots of test projects",
+    "Takes notes while learning",
+    "Sometimes forgets to clean up old projects",
+    "Experiments with code snippets"
+  ],
+  "quirks": [
+    "Creates folders like 'test', 'new_project', 'testing123'",
+    "Saves code snippets from tutorials",
+    "Sometimes has duplicate files with _final, _v2, _working",
+    "Keeps inspiration and ideas files"
+  ],
+  "typical_activities": [
+    "Creating new project folders",
+    "Testing code examples from tutorials",
+    "Writing HTML/CSS/JS files",
+    "Organizing project ideas",
+    "Creating personal website content",
+    "Learning from documentation",
+    "Experimenting with new libraries"
+  ],
+  "workspace_style": "Enthusiastic and experimental, somewhat messy",
+  "tech_level": "Intermediate",
+  "operating_system": "Linux",
+  "favorite_tools": [
+    "VS Code",
+    "Node.js",
+    "Git",
+    "npm",
+    "Chrome DevTools"
+  ]
+}

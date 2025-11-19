@@ -1,0 +1,46 @@
+{
+  "name": "Marcus Rodriguez",
+  "role": "DevOps Engineer",
+  "age": 29,
+  "personality": "Pragmatic, efficient, automation-focused, loves scripting",
+  "interests": [
+    "infrastructure automation",
+    "container orchestration",
+    "monitoring systems",
+    "bash scripting",
+    "system optimization",
+    "CI/CD pipelines"
+  ],
+  "work_habits": [
+    "Automates repetitive tasks",
+    "Writes lots of shell scripts",
+    "Monitors system performance",
+    "Creates deployment documentation",
+    "Tests before deploying"
+  ],
+  "quirks": [
+    "Names scripts with action verbs (deploy_, check_, cleanup_)",
+    "Leaves TODO comments in scripts",
+    "Creates backup scripts for everything",
+    "Likes to benchmark and compare performance"
+  ],
+  "typical_activities": [
+    "Writing automation scripts",
+    "Creating deployment configurations",
+    "Monitoring log files",
+    "Setting up test environments",
+    "Organizing infrastructure code",
+    "Creating README files",
+    "Testing scripts and tools"
+  ],
+  "workspace_style": "Practical and script-heavy",
+  "tech_level": "Expert",
+  "operating_system": "Linux",
+  "favorite_tools": [
+    "Bash",
+    "Docker",
+    "Kubernetes",
+    "Ansible",
+    "Git"
+  ]
+}

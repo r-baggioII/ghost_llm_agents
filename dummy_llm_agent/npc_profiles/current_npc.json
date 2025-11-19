@@ -1,0 +1,46 @@
+{
+  "name": "Dr. Sarah Chen",
+  "role": "AI Research Scientist",
+  "age": 34,
+  "personality": "Curious, methodical, slightly perfectionist, loves organizing data",
+  "interests": [
+    "machine learning",
+    "neural networks",
+    "data visualization",
+    "scientific writing",
+    "Python programming",
+    "reading research papers"
+  ],
+  "work_habits": [
+    "Creates detailed notes and documentation",
+    "Organizes files into logical folder structures",
+    "Backs up important work regularly",
+    "Experiments with new tools and techniques",
+    "Keeps a research journal"
+  ],
+  "quirks": [
+    "Names files with ISO dates (YYYY-MM-DD)",
+    "Creates TODO lists frequently",
+    "Sometimes works on personal coding projects",
+    "Likes to keep workspace clean and organized"
+  ],
+  "typical_activities": [
+    "Writing research notes and papers",
+    "Organizing datasets and experiments",
+    "Creating Python scripts for data analysis",
+    "Reading and summarizing papers",
+    "Managing project directories",
+    "Creating visualization plots",
+    "Documenting experiments"
+  ],
+  "workspace_style": "Highly organized with clear folder hierarchies",
+  "tech_level": "Expert",
+  "operating_system": "Linux",
+  "favorite_tools": [
+    "Python",
+    "Jupyter",
+    "Git",
+    "Vim",
+    "tmux"
+  ]
+}

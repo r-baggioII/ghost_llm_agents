@@ -1,0 +1,513 @@
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Program.Run|Initiating Ghosts.Client.Universal startup - Local: 18:03:43.0574805 UTC: 21:03:43.0831790
+19/11/2025 21:03:43 PM|Ghosts.Domain.Code.ClientConfigurationLoader.get_Config|App config loaded successfully: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/config/application.json
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Program.Run|Sockets enabled. Connecting...
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.CheckId..ctor|CheckId instance created
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.CheckId..ctor|CheckId instantiated with ID File Path: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/id.json
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.timelineManager.ListenerManager.Run|DirectoryListener created DirIn: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/timeline/in/)
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.timelineManager.ListenerManager.Run|DirectoryListener created DirIn: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/timeline/out/)
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|ID file not found at path: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/id.json
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Skipping check for ID from server due to recent check within 5 minutes.
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Program.Run|CheckID: 
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Program.Run|Survey disabled, continuing.
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Program.Run|Handlers enabled, initializing...
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Connecting to http://localhost:5000/clientHub...
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal'. No such file or directory
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal'. No such file or directory
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal'. No such file or directory
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|ID file not found at path: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/id.json
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Skipping check for ID from server due to recent check within 5 minutes.
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Infrastructure.HttpClientBuilder.GetHeaders|Http request headers generated: {"User-Agent":"Ghosts Client","ghosts-name":"rocio-aspire-a315-24p","ghosts-fqdn":"localhost","ghosts-host":"rocio-aspire-a315-24p","ghosts-domain":"(none)","ghosts-resolvedhost":"localhost","ghosts-ip":"127.0.1.1","ghosts-version":"8.5.1.0","ghosts-user":"cm9jaW8="}
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|ID file not found at path: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/id.json
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Skipping check for ID from server due to recent check within 5 minutes.
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Infrastructure.HttpClientBuilder.GetHeaders|Http request headers generated: {"User-Agent":"Ghosts Client","ghosts-name":"rocio-aspire-a315-24p","ghosts-fqdn":"localhost","ghosts-host":"rocio-aspire-a315-24p","ghosts-domain":"(none)","ghosts-resolvedhost":"localhost","ghosts-ip":"127.0.1.1","ghosts-version":"8.5.1.0","ghosts-user":"cm9jaW8="}
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.Run|watching timeline.json
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.Run|Stopfile watcher is starting
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.ThreadLaunchEx|Attempting new thread for: Command
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.ThreadLaunchEx|System.NotSupportedException: Handler type 'Command' not found.
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|Connection state: Disconnected
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Connected to http://localhost:5000/clientHub
+19/11/2025 21:03:43 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Peeking into queue...
+19/11/2025 21:03:44 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|ID: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:03:44 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|WriteId method invoked.
+19/11/2025 21:03:44 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|Received ID for writing: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:03:44 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|ID successfully written to file: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/id.json
+19/11/2025 21:03:44 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|Heartbeat 2025-11-19T21:03:44.1552448Z
+19/11/2025 21:03:44 PM|Ghosts.Client.Universal.Comms.Updates.GetServerUpdates|Exception in connecting to server: Response status code does not indicate success: 404 (Not Found).
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Program.Run|Initiating Ghosts.Client.Universal startup - Local: 18:04:26.1482124 UTC: 21:04:26.1746138
+19/11/2025 21:04:26 PM|Ghosts.Domain.Code.ClientConfigurationLoader.get_Config|App config loaded successfully: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/config/application.json
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Program.Run|Sockets enabled. Connecting...
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId..ctor|CheckId instance created
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId..ctor|CheckId instantiated with ID File Path: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/id.json
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Connecting to http://localhost:5000/clientHub...
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|ID retrieved from local file: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Program.Run|CheckID: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Program.Run|Survey disabled, continuing.
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Program.Run|Handlers enabled, initializing...
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0'. No such file or directory
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0'. No such file or directory
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0'. No such file or directory
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Infrastructure.HttpClientBuilder.GetHeaders|Http request headers generated: {"User-Agent":"Ghosts Client","ghosts-name":"rocio-aspire-a315-24p","ghosts-fqdn":"localhost","ghosts-host":"rocio-aspire-a315-24p","ghosts-domain":"(none)","ghosts-resolvedhost":"localhost","ghosts-ip":"127.0.1.1","ghosts-version":"8.5.1.0","ghosts-id":"f5e657a1-aa27-40bd-aea9-fa9a2cc300a5","ghosts-user":"cm9jaW8="}
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Infrastructure.HttpClientBuilder.GetHeaders|Http request headers generated: {"User-Agent":"Ghosts Client","ghosts-name":"rocio-aspire-a315-24p","ghosts-fqdn":"localhost","ghosts-host":"rocio-aspire-a315-24p","ghosts-domain":"(none)","ghosts-resolvedhost":"localhost","ghosts-ip":"127.0.1.1","ghosts-version":"8.5.1.0","ghosts-id":"f5e657a1-aa27-40bd-aea9-fa9a2cc300a5","ghosts-user":"cm9jaW8="}
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.Run|watching timeline.json
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.Run|Stopfile watcher is starting
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.ThreadLaunchEx|Attempting new thread for: Bash
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|Connection state: Disconnected
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.Updates.GetServerUpdates|Exception in connecting to server: Response status code does not indicate success: 404 (Not Found).
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Connected to http://localhost:5000/clientHub
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Peeking into queue...
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|ID: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|WriteId method invoked.
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|Received ID for writing: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|ID successfully written to file: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/id.json
+19/11/2025 21:04:26 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|Heartbeat 2025-11-19T21:04:26.5677391Z
+19/11/2025 21:04:27 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: mkdir with delay after of 2000
+19/11/2025 21:04:27 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command mkdir
+19/11/2025 21:04:27 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command -p
+19/11/2025 21:04:27 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command ghosts_test_folder
+19/11/2025 21:04:30 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: bash with delay after of 2000
+19/11/2025 21:04:30 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command bash
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Program.Run|Initiating Ghosts.Client.Universal startup - Local: 18:05:23.6651031 UTC: 21:05:23.6890201
+19/11/2025 21:05:23 PM|Ghosts.Domain.Code.ClientConfigurationLoader.get_Config|App config loaded successfully: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/config/application.json
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Program.Run|Sockets enabled. Connecting...
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.CheckId..ctor|CheckId instance created
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.CheckId..ctor|CheckId instantiated with ID File Path: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/id.json
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|ID retrieved from local file: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Program.Run|CheckID: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Program.Run|Survey disabled, continuing.
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Program.Run|Handlers enabled, initializing...
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Connecting to http://localhost:5000/clientHub...
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0'. No such file or directory
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0'. No such file or directory
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0'. No such file or directory
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Infrastructure.HttpClientBuilder.GetHeaders|Http request headers generated: {"User-Agent":"Ghosts Client","ghosts-name":"rocio-aspire-a315-24p","ghosts-fqdn":"localhost","ghosts-host":"rocio-aspire-a315-24p","ghosts-domain":"(none)","ghosts-resolvedhost":"localhost","ghosts-ip":"127.0.1.1","ghosts-version":"8.5.1.0","ghosts-id":"f5e657a1-aa27-40bd-aea9-fa9a2cc300a5","ghosts-user":"cm9jaW8="}
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.Run|watching timeline.json
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.Run|Stopfile watcher is starting
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Infrastructure.HttpClientBuilder.GetHeaders|Http request headers generated: {"User-Agent":"Ghosts Client","ghosts-name":"rocio-aspire-a315-24p","ghosts-fqdn":"localhost","ghosts-host":"rocio-aspire-a315-24p","ghosts-domain":"(none)","ghosts-resolvedhost":"localhost","ghosts-ip":"127.0.1.1","ghosts-version":"8.5.1.0","ghosts-id":"f5e657a1-aa27-40bd-aea9-fa9a2cc300a5","ghosts-user":"cm9jaW8="}
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.ThreadLaunchEx|Attempting new thread for: Bash
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|Connection state: Disconnected
+19/11/2025 21:05:23 PM|Ghosts.Client.Universal.Comms.Updates.GetServerUpdates|Exception in connecting to server: Response status code does not indicate success: 404 (Not Found).
+19/11/2025 21:05:24 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Connected to http://localhost:5000/clientHub
+19/11/2025 21:05:24 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Peeking into queue...
+19/11/2025 21:05:24 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|ID: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 21:05:24 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|WriteId method invoked.
+19/11/2025 21:05:24 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|Received ID for writing: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 21:05:24 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|ID successfully written to file: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/id.json
+19/11/2025 21:05:24 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|Heartbeat 2025-11-19T21:05:24.1138241Z
+19/11/2025 21:05:24 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: mkdir -p ghosts_test_folder with delay after of 2000
+19/11/2025 21:05:24 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command mkdir -p ghosts_test_folder
+19/11/2025 21:05:27 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt with delay after of 2000
+19/11/2025 21:05:27 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt
+19/11/2025 21:05:30 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: ls -la ghosts_test_folder with delay after of 2000
+19/11/2025 21:05:30 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command ls -la ghosts_test_folder
+19/11/2025 21:05:33 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cat ghosts_test_folder/estado.txt with delay after of 5000
+19/11/2025 21:05:33 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cat ghosts_test_folder/estado.txt
+19/11/2025 21:05:39 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Ciclo completado - '$(date) with delay after of 3000
+19/11/2025 21:05:39 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Ciclo completado - '$(date)
+19/11/2025 21:05:43 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: mkdir -p ghosts_test_folder with delay after of 2000
+19/11/2025 21:05:43 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command mkdir -p ghosts_test_folder
+19/11/2025 21:05:46 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt with delay after of 2000
+19/11/2025 21:05:46 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt
+19/11/2025 21:05:49 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: ls -la ghosts_test_folder with delay after of 2000
+19/11/2025 21:05:49 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command ls -la ghosts_test_folder
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Program.Run|Initiating Ghosts.Client.Universal startup - Local: 18:14:01.9802021 UTC: 21:14:02.0077891
+19/11/2025 21:14:02 PM|Ghosts.Domain.Code.ClientConfigurationLoader.get_Config|App config loaded successfully: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/config/application.json
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Program.Run|Sockets enabled. Connecting...
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId..ctor|CheckId instance created
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId..ctor|CheckId instantiated with ID File Path: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/id.json
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|ID retrieved from local file: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Program.Run|CheckID: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Program.Run|Survey disabled, continuing.
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Program.Run|Handlers enabled, initializing...
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Connecting to http://localhost:5000/clientHub...
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.Run|watching timeline.json
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.Run|Stopfile watcher is starting
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0'. No such file or directory
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0'. No such file or directory
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0'. No such file or directory
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.ThreadLaunchEx|Attempting new thread for: Bash
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Infrastructure.HttpClientBuilder.GetHeaders|Http request headers generated: {"User-Agent":"Ghosts Client","ghosts-name":"rocio-aspire-a315-24p","ghosts-fqdn":"localhost","ghosts-host":"rocio-aspire-a315-24p","ghosts-domain":"(none)","ghosts-resolvedhost":"localhost","ghosts-ip":"127.0.1.1","ghosts-version":"8.5.1.0","ghosts-id":"3d9f85bc-db0f-4bb3-965c-6ae602df04b0","ghosts-user":"cm9jaW8="}
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Infrastructure.HttpClientBuilder.GetHeaders|Http request headers generated: {"User-Agent":"Ghosts Client","ghosts-name":"rocio-aspire-a315-24p","ghosts-fqdn":"localhost","ghosts-host":"rocio-aspire-a315-24p","ghosts-domain":"(none)","ghosts-resolvedhost":"localhost","ghosts-ip":"127.0.1.1","ghosts-version":"8.5.1.0","ghosts-id":"3d9f85bc-db0f-4bb3-965c-6ae602df04b0","ghosts-user":"cm9jaW8="}
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|Connection state: Disconnected
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.Updates.GetServerUpdates|Exception in connecting to server: Response status code does not indicate success: 404 (Not Found).
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Connected to http://localhost:5000/clientHub
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Peeking into queue...
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|ID: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|WriteId method invoked.
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|Received ID for writing: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|ID successfully written to file: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/id.json
+19/11/2025 21:14:02 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|Heartbeat 2025-11-19T21:14:02.4297171Z
+19/11/2025 21:14:03 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: mkdir -p ghosts_test_folder with delay after of 2000
+19/11/2025 21:14:03 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command mkdir -p ghosts_test_folder
+19/11/2025 21:14:06 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt with delay after of 2000
+19/11/2025 21:14:06 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt
+19/11/2025 21:14:09 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: ls -la ghosts_test_folder with delay after of 2000
+19/11/2025 21:14:09 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command ls -la ghosts_test_folder
+19/11/2025 21:14:12 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cat ghosts_test_folder/estado.txt with delay after of 5000
+19/11/2025 21:14:12 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cat ghosts_test_folder/estado.txt
+19/11/2025 21:14:18 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Ciclo completado - '$(date) with delay after of 3000
+19/11/2025 21:14:18 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Ciclo completado - '$(date)
+19/11/2025 21:14:22 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: mkdir -p ghosts_test_folder with delay after of 2000
+19/11/2025 21:14:22 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command mkdir -p ghosts_test_folder
+19/11/2025 21:14:25 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt with delay after of 2000
+19/11/2025 21:14:25 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt
+19/11/2025 21:14:28 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: ls -la ghosts_test_folder with delay after of 2000
+19/11/2025 21:14:28 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command ls -la ghosts_test_folder
+19/11/2025 21:14:31 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cat ghosts_test_folder/estado.txt with delay after of 5000
+19/11/2025 21:14:31 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cat ghosts_test_folder/estado.txt
+19/11/2025 21:14:37 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Ciclo completado - '$(date) with delay after of 3000
+19/11/2025 21:14:37 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Ciclo completado - '$(date)
+19/11/2025 21:14:41 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: mkdir -p ghosts_test_folder with delay after of 2000
+19/11/2025 21:14:41 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command mkdir -p ghosts_test_folder
+19/11/2025 21:14:44 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt with delay after of 2000
+19/11/2025 21:14:44 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt
+19/11/2025 21:14:47 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: ls -la ghosts_test_folder with delay after of 2000
+19/11/2025 21:14:47 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command ls -la ghosts_test_folder
+19/11/2025 21:14:50 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cat ghosts_test_folder/estado.txt with delay after of 5000
+19/11/2025 21:14:50 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cat ghosts_test_folder/estado.txt
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Program.Run|Initiating Ghosts.Client.Universal startup - Local: 18:18:41.5994409 UTC: 21:18:41.6243388
+19/11/2025 21:18:41 PM|Ghosts.Domain.Code.ClientConfigurationLoader.get_Config|App config loaded successfully: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/config/application.json
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Program.Run|Sockets enabled. Connecting...
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId..ctor|CheckId instance created
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId..ctor|CheckId instantiated with ID File Path: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/id.json
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Connecting to http://localhost:5000/clientHub...
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|ID retrieved from local file: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Program.Run|CheckID: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Program.Run|Survey disabled, continuing.
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Program.Run|Handlers enabled, initializing...
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0'. No such file or directory
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0'. No such file or directory
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0'. No such file or directory
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.Run|watching timeline.json
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.Run|Stopfile watcher is starting
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.ThreadLaunchEx|Attempting new thread for: Bash
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Infrastructure.HttpClientBuilder.GetHeaders|Http request headers generated: {"User-Agent":"Ghosts Client","ghosts-name":"rocio-aspire-a315-24p","ghosts-fqdn":"localhost","ghosts-host":"rocio-aspire-a315-24p","ghosts-domain":"(none)","ghosts-resolvedhost":"localhost","ghosts-ip":"127.0.1.1","ghosts-version":"8.5.1.0","ghosts-id":"f5e657a1-aa27-40bd-aea9-fa9a2cc300a5","ghosts-user":"cm9jaW8="}
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Infrastructure.HttpClientBuilder.GetHeaders|Http request headers generated: {"User-Agent":"Ghosts Client","ghosts-name":"rocio-aspire-a315-24p","ghosts-fqdn":"localhost","ghosts-host":"rocio-aspire-a315-24p","ghosts-domain":"(none)","ghosts-resolvedhost":"localhost","ghosts-ip":"127.0.1.1","ghosts-version":"8.5.1.0","ghosts-id":"f5e657a1-aa27-40bd-aea9-fa9a2cc300a5","ghosts-user":"cm9jaW8="}
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.Updates.GetServerUpdates|Exception in connecting to server: Response status code does not indicate success: 404 (Not Found).
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|Connection state: Disconnected
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Connected to http://localhost:5000/clientHub
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Peeking into queue...
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|ID: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|WriteId method invoked.
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|Received ID for writing: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|ID successfully written to file: /home/rocio/Documentos/GHOSTS/src/Ghosts.Client.Universal/bin/Debug/net8.0/instance/id.json
+19/11/2025 21:18:41 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|Heartbeat 2025-11-19T21:18:41.9863408Z
+19/11/2025 21:18:42 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: mkdir -p ghosts_test_folder with delay after of 2000
+19/11/2025 21:18:42 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command mkdir -p ghosts_test_folder
+19/11/2025 21:18:45 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt with delay after of 2000
+19/11/2025 21:18:45 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt
+19/11/2025 21:18:48 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: ls -la ghosts_test_folder with delay after of 2000
+19/11/2025 21:18:48 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command ls -la ghosts_test_folder
+19/11/2025 21:18:51 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cat ghosts_test_folder/estado.txt with delay after of 5000
+19/11/2025 21:18:51 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cat ghosts_test_folder/estado.txt
+19/11/2025 21:18:57 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Ciclo completado - '$(date) with delay after of 3000
+19/11/2025 21:18:57 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Ciclo completado - '$(date)
+19/11/2025 21:19:01 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: mkdir -p ghosts_test_folder with delay after of 2000
+19/11/2025 21:19:01 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command mkdir -p ghosts_test_folder
+19/11/2025 21:19:04 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt with delay after of 2000
+19/11/2025 21:19:04 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt
+19/11/2025 21:19:07 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: ls -la ghosts_test_folder with delay after of 2000
+19/11/2025 21:19:07 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command ls -la ghosts_test_folder
+19/11/2025 21:19:10 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cat ghosts_test_folder/estado.txt with delay after of 5000
+19/11/2025 21:19:10 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cat ghosts_test_folder/estado.txt
+19/11/2025 21:19:16 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Ciclo completado - '$(date) with delay after of 3000
+19/11/2025 21:19:16 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Ciclo completado - '$(date)
+19/11/2025 21:19:20 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: mkdir -p ghosts_test_folder with delay after of 2000
+19/11/2025 21:19:20 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command mkdir -p ghosts_test_folder
+19/11/2025 21:19:23 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt with delay after of 2000
+19/11/2025 21:19:23 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt
+19/11/2025 21:19:26 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: ls -la ghosts_test_folder with delay after of 2000
+19/11/2025 21:19:26 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command ls -la ghosts_test_folder
+19/11/2025 21:19:29 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cat ghosts_test_folder/estado.txt with delay after of 5000
+19/11/2025 21:19:29 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cat ghosts_test_folder/estado.txt
+19/11/2025 21:19:35 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Ciclo completado - '$(date) with delay after of 3000
+19/11/2025 21:19:35 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Ciclo completado - '$(date)
+19/11/2025 21:19:39 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: mkdir -p ghosts_test_folder with delay after of 2000
+19/11/2025 21:19:39 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command mkdir -p ghosts_test_folder
+19/11/2025 21:19:42 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt with delay after of 2000
+19/11/2025 21:19:42 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt
+19/11/2025 21:19:45 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: ls -la ghosts_test_folder with delay after of 2000
+19/11/2025 21:19:45 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command ls -la ghosts_test_folder
+19/11/2025 21:19:48 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cat ghosts_test_folder/estado.txt with delay after of 5000
+19/11/2025 21:19:48 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cat ghosts_test_folder/estado.txt
+19/11/2025 21:19:54 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Ciclo completado - '$(date) with delay after of 3000
+19/11/2025 21:19:54 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Ciclo completado - '$(date)
+19/11/2025 21:19:58 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: mkdir -p ghosts_test_folder with delay after of 2000
+19/11/2025 21:19:58 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command mkdir -p ghosts_test_folder
+19/11/2025 21:20:01 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt with delay after of 2000
+19/11/2025 21:20:01 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt
+19/11/2025 21:20:04 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: ls -la ghosts_test_folder with delay after of 2000
+19/11/2025 21:20:04 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command ls -la ghosts_test_folder
+19/11/2025 21:20:07 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cat ghosts_test_folder/estado.txt with delay after of 5000
+19/11/2025 21:20:07 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cat ghosts_test_folder/estado.txt
+19/11/2025 21:20:13 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Ciclo completado - '$(date) with delay after of 3000
+19/11/2025 21:20:13 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Ciclo completado - '$(date)
+19/11/2025 21:20:17 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: mkdir -p ghosts_test_folder with delay after of 2000
+19/11/2025 21:20:17 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command mkdir -p ghosts_test_folder
+19/11/2025 21:20:20 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt with delay after of 2000
+19/11/2025 21:20:20 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Agente Activo - '$(date) > ghosts_test_folder/estado.txt
+19/11/2025 21:20:23 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: ls -la ghosts_test_folder with delay after of 2000
+19/11/2025 21:20:23 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command ls -la ghosts_test_folder
+19/11/2025 21:20:26 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cat ghosts_test_folder/estado.txt with delay after of 5000
+19/11/2025 21:20:26 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cat ghosts_test_folder/estado.txt
+19/11/2025 21:20:32 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: echo 'Ciclo completado - '$(date) with delay after of 3000
+19/11/2025 21:20:32 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command echo 'Ciclo completado - '$(date)
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Program.Run|Initiating Ghosts.Client.Universal startup - Local: 19:21:54.0250298 UTC: 22:21:54.0487813
+19/11/2025 22:21:54 PM|Ghosts.Domain.Code.ClientConfigurationLoader.get_Config|App config loaded successfully: /home/rocio/Documentos/GHOSTS/dummy_agent/bin/config/application.json
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Program.Run|Sockets enabled. Connecting...
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId..ctor|CheckId instance created
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId..ctor|CheckId instantiated with ID File Path: /home/rocio/Documentos/GHOSTS/dummy_agent/bin/instance/id.json
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.timelineManager.ListenerManager.Run|System.NullReferenceException: Object reference not set to an instance of an object.
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|ID retrieved from local file: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Program.Run|CheckID: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Program.Run|Survey disabled, continuing.
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Program.Run|Handlers enabled, initializing...
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Connecting to http://localhost:5000/clientHub...
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.Run|watching timeline.json
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.Run|Stopfile watcher is starting
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.TimelineManager.Orchestrator.ThreadLaunchEx|Attempting new thread for: Bash
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/dummy_agent/bin'. No such file or directory
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/dummy_agent/bin'. No such file or directory
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Infrastructure.GuestInfoVars.Load|System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\progra~1\VMware\VMware~1\vmtoolsd.exe' with working directory '/home/rocio/Documentos/GHOSTS/dummy_agent/bin'. No such file or directory
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Infrastructure.HttpClientBuilder.GetHeaders|Http request headers generated: {"User-Agent":"Ghosts Client","ghosts-name":"rocio-aspire-a315-24p","ghosts-fqdn":"localhost","ghosts-host":"rocio-aspire-a315-24p","ghosts-domain":"(none)","ghosts-resolvedhost":"localhost","ghosts-ip":"127.0.1.1","ghosts-version":"8.5.1.0","ghosts-id":"3d9f85bc-db0f-4bb3-965c-6ae602df04b0","ghosts-user":"cm9jaW8="}
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Id property getter invoked
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId.get_Id|Returning cached Id: 3d9f85bc-db0f-4bb3-965c-6ae602df04b0
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Infrastructure.HttpClientBuilder.GetHeaders|Http request headers generated: {"User-Agent":"Ghosts Client","ghosts-name":"rocio-aspire-a315-24p","ghosts-fqdn":"localhost","ghosts-host":"rocio-aspire-a315-24p","ghosts-domain":"(none)","ghosts-resolvedhost":"localhost","ghosts-ip":"127.0.1.1","ghosts-version":"8.5.1.0","ghosts-id":"3d9f85bc-db0f-4bb3-965c-6ae602df04b0","ghosts-user":"cm9jaW8="}
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|Connection state: Disconnected
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.Updates.GetServerUpdates|Exception in connecting to server: Response status code does not indicate success: 404 (Not Found).
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Connected to http://localhost:5000/clientHub
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.Run|Peeking into queue...
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|ID: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|WriteId method invoked.
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|Received ID for writing: f5e657a1-aa27-40bd-aea9-fa9a2cc300a5
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.CheckId.WriteId|ID successfully written to file: /home/rocio/Documentos/GHOSTS/dummy_agent/bin/instance/id.json
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Comms.ClientSocket.Connection.EstablishConnection|Heartbeat 2025-11-19T22:21:54.8808514Z
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd with delay after of 1000
+19/11/2025 22:21:54 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd
+19/11/2025 22:21:56 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date with delay after of 2000
+19/11/2025 22:21:56 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date
+19/11/2025 22:21:58 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder with delay after of 2000
+19/11/2025 22:21:58 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder
+19/11/2025 22:22:01 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log with delay after of 2000
+19/11/2025 22:22:01 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log
+19/11/2025 22:22:03 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah with delay after of 2000
+19/11/2025 22:22:03 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah
+19/11/2025 22:22:06 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log with delay after of 3000
+19/11/2025 22:22:06 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log
+19/11/2025 22:22:10 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f with delay after of 5000
+19/11/2025 22:22:10 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f
+19/11/2025 22:22:15 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd with delay after of 1000
+19/11/2025 22:22:15 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd
+19/11/2025 22:22:17 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date with delay after of 2000
+19/11/2025 22:22:17 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date
+19/11/2025 22:22:19 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder with delay after of 2000
+19/11/2025 22:22:19 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder
+19/11/2025 22:22:22 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log with delay after of 2000
+19/11/2025 22:22:22 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log
+19/11/2025 22:22:24 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah with delay after of 2000
+19/11/2025 22:22:24 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah
+19/11/2025 22:22:27 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log with delay after of 3000
+19/11/2025 22:22:27 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log
+19/11/2025 22:22:31 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f with delay after of 5000
+19/11/2025 22:22:31 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f
+19/11/2025 22:22:37 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd with delay after of 1000
+19/11/2025 22:22:37 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd
+19/11/2025 22:22:38 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date with delay after of 2000
+19/11/2025 22:22:38 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date
+19/11/2025 22:22:41 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder with delay after of 2000
+19/11/2025 22:22:41 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder
+19/11/2025 22:22:43 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log with delay after of 2000
+19/11/2025 22:22:43 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log
+19/11/2025 22:22:46 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah with delay after of 2000
+19/11/2025 22:22:46 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah
+19/11/2025 22:22:48 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log with delay after of 3000
+19/11/2025 22:22:48 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log
+19/11/2025 22:22:52 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f with delay after of 5000
+19/11/2025 22:22:52 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f
+19/11/2025 22:22:58 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd with delay after of 1000
+19/11/2025 22:22:58 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd
+19/11/2025 22:22:59 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date with delay after of 2000
+19/11/2025 22:22:59 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date
+19/11/2025 22:23:02 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder with delay after of 2000
+19/11/2025 22:23:02 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder
+19/11/2025 22:23:04 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log with delay after of 2000
+19/11/2025 22:23:04 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log
+19/11/2025 22:23:07 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah with delay after of 2000
+19/11/2025 22:23:07 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah
+19/11/2025 22:23:09 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log with delay after of 3000
+19/11/2025 22:23:09 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log
+19/11/2025 22:23:13 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f with delay after of 5000
+19/11/2025 22:23:13 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f
+19/11/2025 22:23:19 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd with delay after of 1000
+19/11/2025 22:23:19 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd
+19/11/2025 22:23:20 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date with delay after of 2000
+19/11/2025 22:23:20 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date
+19/11/2025 22:23:23 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder with delay after of 2000
+19/11/2025 22:23:23 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder
+19/11/2025 22:23:25 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log with delay after of 2000
+19/11/2025 22:23:25 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log
+19/11/2025 22:23:28 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah with delay after of 2000
+19/11/2025 22:23:28 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah
+19/11/2025 22:23:30 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log with delay after of 3000
+19/11/2025 22:23:30 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log
+19/11/2025 22:23:34 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f with delay after of 5000
+19/11/2025 22:23:34 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f
+19/11/2025 22:23:40 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd with delay after of 1000
+19/11/2025 22:23:40 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd
+19/11/2025 22:23:41 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date with delay after of 2000
+19/11/2025 22:23:41 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date
+19/11/2025 22:23:44 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder with delay after of 2000
+19/11/2025 22:23:44 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder
+19/11/2025 22:23:46 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log with delay after of 2000
+19/11/2025 22:23:46 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log
+19/11/2025 22:23:49 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah with delay after of 2000
+19/11/2025 22:23:49 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah
+19/11/2025 22:23:51 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log with delay after of 3000
+19/11/2025 22:23:51 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log
+19/11/2025 22:23:55 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f with delay after of 5000
+19/11/2025 22:23:55 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f
+19/11/2025 22:24:01 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd with delay after of 1000
+19/11/2025 22:24:01 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd
+19/11/2025 22:24:02 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date with delay after of 2000
+19/11/2025 22:24:02 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date
+19/11/2025 22:24:05 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder with delay after of 2000
+19/11/2025 22:24:05 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder
+19/11/2025 22:24:07 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log with delay after of 2000
+19/11/2025 22:24:07 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log
+19/11/2025 22:24:10 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah with delay after of 2000
+19/11/2025 22:24:10 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah
+19/11/2025 22:24:12 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log with delay after of 3000
+19/11/2025 22:24:12 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log
+19/11/2025 22:24:16 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f with delay after of 5000
+19/11/2025 22:24:16 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f
+19/11/2025 22:24:22 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd with delay after of 1000
+19/11/2025 22:24:22 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd
+19/11/2025 22:24:23 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date with delay after of 2000
+19/11/2025 22:24:23 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date
+19/11/2025 22:24:26 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder with delay after of 2000
+19/11/2025 22:24:26 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder
+19/11/2025 22:24:28 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log with delay after of 2000
+19/11/2025 22:24:28 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log
+19/11/2025 22:24:31 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah with delay after of 2000
+19/11/2025 22:24:31 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah
+19/11/2025 22:24:33 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log with delay after of 3000
+19/11/2025 22:24:33 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log
+19/11/2025 22:24:37 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f with delay after of 5000
+19/11/2025 22:24:37 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f
+19/11/2025 22:24:43 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd with delay after of 1000
+19/11/2025 22:24:43 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd
+19/11/2025 22:24:44 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date with delay after of 2000
+19/11/2025 22:24:44 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date
+19/11/2025 22:24:47 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder with delay after of 2000
+19/11/2025 22:24:47 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder
+19/11/2025 22:24:49 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log with delay after of 2000
+19/11/2025 22:24:49 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log
+19/11/2025 22:24:52 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah with delay after of 2000
+19/11/2025 22:24:52 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah
+19/11/2025 22:24:54 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log with delay after of 3000
+19/11/2025 22:24:54 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log
+19/11/2025 22:24:58 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f with delay after of 5000
+19/11/2025 22:24:58 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f
+19/11/2025 22:25:04 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd with delay after of 1000
+19/11/2025 22:25:04 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd
+19/11/2025 22:25:05 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date with delay after of 2000
+19/11/2025 22:25:05 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date
+19/11/2025 22:25:08 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder with delay after of 2000
+19/11/2025 22:25:08 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder
+19/11/2025 22:25:10 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log with delay after of 2000
+19/11/2025 22:25:10 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log
+19/11/2025 22:25:13 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah with delay after of 2000
+19/11/2025 22:25:13 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah
+19/11/2025 22:25:15 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log with delay after of 3000
+19/11/2025 22:25:15 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log
+19/11/2025 22:25:19 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f with delay after of 5000
+19/11/2025 22:25:19 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f
+19/11/2025 22:25:25 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd with delay after of 1000
+19/11/2025 22:25:25 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd
+19/11/2025 22:25:26 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date with delay after of 2000
+19/11/2025 22:25:26 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date
+19/11/2025 22:25:29 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder with delay after of 2000
+19/11/2025 22:25:29 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder
+19/11/2025 22:25:31 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log with delay after of 2000
+19/11/2025 22:25:31 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log
+19/11/2025 22:25:34 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah with delay after of 2000
+19/11/2025 22:25:34 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah
+19/11/2025 22:25:36 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log with delay after of 3000
+19/11/2025 22:25:36 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log
+19/11/2025 22:25:40 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f with delay after of 5000
+19/11/2025 22:25:40 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f
+19/11/2025 22:25:46 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd with delay after of 1000
+19/11/2025 22:25:46 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd
+19/11/2025 22:25:47 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date with delay after of 2000
+19/11/2025 22:25:47 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date
+19/11/2025 22:25:50 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder with delay after of 2000
+19/11/2025 22:25:50 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder
+19/11/2025 22:25:52 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log with delay after of 2000
+19/11/2025 22:25:52 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log
+19/11/2025 22:25:55 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah with delay after of 2000
+19/11/2025 22:25:55 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah
+19/11/2025 22:25:57 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log with delay after of 3000
+19/11/2025 22:25:57 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log
+19/11/2025 22:26:01 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f with delay after of 5000
+19/11/2025 22:26:01 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f
+19/11/2025 22:26:07 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd with delay after of 1000
+19/11/2025 22:26:07 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd
+19/11/2025 22:26:08 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date with delay after of 2000
+19/11/2025 22:26:08 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo '=== Dummy Agent Started ===' && date
+19/11/2025 22:26:11 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder with delay after of 2000
+19/11/2025 22:26:11 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && mkdir -p test_folder
+19/11/2025 22:26:13 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log with delay after of 2000
+19/11/2025 22:26:13 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Agent Activity Log - '$(date) > test_folder/activity.log
+19/11/2025 22:26:16 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah with delay after of 2000
+19/11/2025 22:26:16 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && ls -lah
+19/11/2025 22:26:18 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log with delay after of 3000
+19/11/2025 22:26:18 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && cat test_folder/activity.log
+19/11/2025 22:26:22 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f with delay after of 5000
+19/11/2025 22:26:22 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && echo 'Files in workspace:' && find . -type f
+19/11/2025 22:26:28 PM|Ghosts.Client.Universal.Handlers.Bash.RunOnce|Command line: cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd with delay after of 1000
+19/11/2025 22:26:28 PM|Ghosts.Client.Universal.Handlers.Bash.ProcessCommand|Spawning bash with command cd /home/rocio/Documentos/GHOSTS/dummy_agent/workspace && pwd

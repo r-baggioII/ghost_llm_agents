@@ -1,0 +1,20 @@
+{
+    "Status": "Run",
+    "TimeLineHandlers": [
+        {
+            "HandlerType": "Bash",
+            "Initial": "",
+            "UtcTimeOn": "00:00:00",
+            "UtcTimeOff": "24:00:00",
+            "Loop": true,
+            "TimeLineEvents": [
+                {
+                    "Command": "curl -s http://localhost:5555/next-command | python3 -c \"import sys, json; data=json.load(sys.stdin); print(data.get('command', 'echo LLM service not responding'))\" | bash",
+                    "CommandArgs": [],
+                    "DelayAfter": 15000,
+                    "DelayBefore": 2000
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+*.key
+
+# API Keys - NEVER COMMIT
+**/OPENAI_API_KEY*
+**/*api*key*.txt
+
+# Workspace - agent output
+workspace/*
+!workspace/.gitkeep
+
+# Logs
+logs/*.log
+bin/logs/*.log
+*.log
+
+# GHOSTS instance data
+bin/instance/
+bin/ghosts_test_folder/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

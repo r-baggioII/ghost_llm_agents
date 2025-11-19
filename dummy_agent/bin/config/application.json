@@ -1,0 +1,52 @@
+{
+    "ApiRootUrl": "http://localhost:5000/api",
+    "Sockets": {
+        "IsEnabled": true,
+        "Heartbeat": 50000
+    },
+    "Id": {
+        "IsEnabled": true,
+        "Format": "guestinfo",
+        "FormatKey": "guestinfo.rangename",
+        "FormatValue": "$formatkeyvalue$-$machinename$",
+        "VMWareToolsLocation": "C:\\progra~1\\VMware\\VMware~1\\vmtoolsd.exe"
+    },
+    "AllowMultipleInstances": false,
+    "EncodeHeaders": true,
+    "ClientResults": {
+        "IsEnabled": true,
+        "IsSecure": false,
+        "CycleSleep": 300000
+    },
+    "ClientUpdates": {
+        "IsEnabled": true,
+        "CycleSleep": 300000
+    },
+    "Survey": {
+        "IsEnabled": false,
+        "IsSecure": false,
+        "Frequency": "once",
+        "CycleSleepMinutes": 5,
+        "OutputFormat": "indent"
+    },
+    "Timeline": {
+        "Location": "/home/rocio/Documentos/GHOSTS/dummy_agent/config/timeline.json"
+    },
+    "Content": {
+        "EmailContent": "",
+        "EmailReply": "",
+        "EmailDomain": "",
+        "EmailOutside": "",
+        "BlogContent": "",
+        "BlogReply": "",
+        "FileNames": "",
+        "Dictionary": ""
+    },
+    "ResourceControl": {
+        "ManageProcesses": true
+    },
+    "HealthIsEnabled": false,
+    "HandlersIsEnabled": true,
+    "DisableStartup": false,
+    "OfficeDocsDirectory": ""
+}
